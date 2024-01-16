@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/2cc6054e-5061-4c21-b4f4-dce9b7d95b61/resourceGroups/jan-training/providers/Microsoft.Web/sites/java8",
+    "appService.deploySubpath": "."
+}

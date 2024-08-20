@@ -4,4 +4,4 @@ app = Flask(__name__)
 # Default route
 @app.route("/")
 def home():
-    return "<h1>Hello, Azure Gurus!! How are you all?</h1>"
+    return "<h1>Hello, Azure Gurus!! You are all Amazing!</h1>"
